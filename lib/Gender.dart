@@ -1,0 +1,1 @@
+enum Gender { MASCULINO, FEMININO }
